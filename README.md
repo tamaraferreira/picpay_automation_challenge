@@ -1,4 +1,4 @@
-# PicPay automation challenge
+# PicPay Automation Challenge
 
 This is a technical evaluation of an API testing automation.
 
